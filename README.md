@@ -30,12 +30,17 @@ The analysis was conducted in **two main phases**:
 
 ## **Insights & Findings**
 
-- **Total Revenue:** $10.01M  
-- **Overall Win Rate:** 63.15%  
-- **Top Product:** GTX Pro, contributing **35.09%** of total revenue  
-- **Top Sales Agent:** Darcel Schlereth  
-- **Highest Regional Contribution:** North America, accounting for the majority of total revenue  
-- Monthly analysis revealed fluctuations in win rate, suggesting opportunities to stabilize sales performance across quarters.  
+- **Total Revenue:** The company achieved approximately **$10.01 million** in total closed deals, reflecting strong sales execution and consistent revenue generation across key product lines and regions.  
+
+- **Overall Win Rate:** The **63.15% win rate** indicates that nearly two-thirds of all sales opportunities converted successfully. While performance is solid, monthly fluctuations suggest room to improve consistency through enhanced sales training and pipeline management.  
+
+- **Top Product:** **GTX Pro** led performance with **35.09% of total revenue**, highlighting its strong market demand and strategic importance. However, this reliance also signals the need to diversify revenue across additional product lines.  
+
+- **Top Sales Agent:** **Darcel Schlereth** was the highest-performing agent, outperforming peers in both total revenue and conversion rate. Her results suggest strong client relationships and efficient deal management that could serve as a model for the wider team.  
+
+- **Regional Performance:** **North America** generated the majority of total revenue, demonstrating mature market presence and higher conversion efficiency compared to other regions, where localized strategies could unlock further growth potential.  
+
+- **Monthly Trends:** Monthly data revealed visible fluctuations in win rates and revenue, likely influenced by campaign timing and seasonality. Addressing these patterns could help stabilize quarterly performance and enhance forecasting accuracy.  
 
 
 ## **References**
